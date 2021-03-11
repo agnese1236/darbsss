@@ -1,0 +1,25 @@
+body {background-color:gray;}
+h1{
+    color: rgb(150, 15, 15);
+    text-align: end;
+}
+
+    ol { list-style-type: upper-alpha}
+    
+img {
+        border: 10px solid red ;}
+
+       div {background-color: green;
+        border-width: 200px ;
+        border: 5px solid red;
+        padding: 50px;
+        margin: 20px;
+      }
+      table, th, td {
+        border: 1px solid black;
+        border-collapse: collapse;
+      }
+      
+      td{
+          background-color: orange;
+      }
